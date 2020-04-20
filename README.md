@@ -22,11 +22,11 @@ What each file has:
    
    e. Model : Logistic Regression and CNN.
    
-3. Text_calssification_DL.ipynb
+3. Text_classification_DL.ipynb
    
    a. Create Word2Vec Embeddings
    
-   b. Classication using 
+   b. Classification using 
       1. LSTM
       2. CNN + LSTM
       3. GRU
