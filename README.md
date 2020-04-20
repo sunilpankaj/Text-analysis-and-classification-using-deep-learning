@@ -1,6 +1,9 @@
 # Text-analysis-and-classification-using-deep-learning
 Text analysis, word embedding, classical machine learning and deep learning for text classification. 
-
+Packages:
+1. Python3 ,numpy, pandas 
+2. Tensorflow2 
+3. NLTK 
 Problem Stantement:
 Classify sentiment (Positive, Negative, Neutral) of the tweet.
 
@@ -31,6 +34,10 @@ What each file has:
    
    c. Model weights extraction
    
-   
+Please note notebooks are provided to use and understand listed all the methods, model are not trained to get best accuracies.
 
+I have used google colab.
+
+Reference for CNN based classifiaction (https://arxiv.org/pdf/1408.5882.pdf)
+![]
 
