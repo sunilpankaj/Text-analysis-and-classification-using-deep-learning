@@ -1,5 +1,6 @@
 # Text-analysis-and-classification-using-deep-learning
 Text analysis, word embedding, classical machine learning and deep learning for text classification. 
+
 Packages:
 1. Python3 ,numpy, pandas 
 2. Tensorflow2 
@@ -40,4 +41,5 @@ I have used google colab.
 
 Reference for CNN based classifiaction (https://arxiv.org/pdf/1408.5882.pdf)
 ![]
+
 
