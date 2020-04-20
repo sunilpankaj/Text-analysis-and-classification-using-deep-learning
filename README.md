@@ -40,6 +40,11 @@ Please note notebooks are provided to use and understand listed all the methods,
 I have used google colab.
 
 Reference for CNN based classifiaction (https://arxiv.org/pdf/1408.5882.pdf)
-![]
 
+CNN Architecture: 
 
+![CNN_Architecture](https://github.com/sunilpankaj/Text-analysis-and-classification-using-deep-learning/blob/master/CNN_text_classification.png)
+
+![CNN Explaination](https://github.com/sunilpankaj/Text-analysis-and-classification-using-deep-learning/blob/master/CNN_Explaination.png)
+
+Ref: http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
