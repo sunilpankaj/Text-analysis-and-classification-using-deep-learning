@@ -1,6 +1,8 @@
 # Text-analysis-and-classification-using-deep-learning
 Text analysis, word embedding, classical machine learning and deep learning for text classification. 
 
+check this out : for Plotting and Visualization of Text,Text Cleaning using NLTK and classical ML (https://github.com/sunilpankaj/Twitter-US-Airline-Sentiment)
+
 Packages:
 1. Python3 ,numpy, pandas 
 2. Tensorflow2 
